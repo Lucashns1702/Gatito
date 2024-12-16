@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.gatinho{
+
+    width: 100%;
+    height:100vh;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: grey;
+}
+
+.gatinho div{
+width: 25%;
+height: 25vh;
+border: 1px solid red;
+background-color: aquamarine;
+color: yellow;
+font-size: 40px ;
+}
+
+
+
+
+
+
+/* padding: cresce para baixo o "quadrado" com texto dentro.
+margin: aumenta a margem
+margin: 0
+padding: 0
+Width sempre %
+
+
+
+*/
